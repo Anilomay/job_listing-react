@@ -1,5 +1,4 @@
 import React from 'react'
-import './style.css'
 /*{
     "id": 1,
     "company": "Photosnap",
