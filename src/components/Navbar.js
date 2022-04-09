@@ -1,7 +1,5 @@
 import React from 'react'
-import header from '../components/bg-header-mobile.svg';
 import header_desktop from '../components/bg-header-desktop.svg';
-import './style.css'
 
 const Navbar = () => {
   return (
